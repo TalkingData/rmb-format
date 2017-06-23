@@ -1,6 +1,6 @@
 {
   "name": "rmb-format",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "rmb-format",
   "main": "index.js",
   "scripts": {
@@ -13,5 +13,9 @@
     "intelli-espower-loader": "^1.0.1",
     "mocha": "^3.4.2",
     "power-assert": "^1.4.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:TalkingData/rmb-format.git"
   }
 }
